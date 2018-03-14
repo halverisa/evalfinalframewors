@@ -1,0 +1,45 @@
+/*Estilos personalizados*/
+body {
+  background-image: url("../img/fondo.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+p {
+  text-align: justify;
+}
+.slogan {
+  text-align: center;
+  height: 200px;
+}
+.encabezado img{
+  width: 200px;
+
+}
+.barra img{
+  width: 40px;
+}
+.barra a{
+  margin-left: 20px;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.autor {
+  text-align:center;
+}
+.boton {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.postimg {
+  float: left;
+  width: 300px;
+  margin: 10px;
+}
+.boton{
+  text-align: center;
+}
+.menu {
+  text-align: right;
+}
